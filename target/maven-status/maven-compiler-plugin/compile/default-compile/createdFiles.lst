@@ -1,0 +1,10 @@
+com/adam/stan/Calculator.class
+com/adam/stan/StandardDeviationReducer.class
+com/adam/stan/HandKey.class
+org/apache/hadoop/examples/WordMean$WordMeanMapper.class
+org/apache/hadoop/examples/WordMean$WordMeanReducer.class
+org/apache/hadoop/examples/WordMean.class
+com/adam/stan/HandInfoBuilder.class
+FingersCounter.class
+com/adam/stan/HandInfo.class
+com/adam/stan/TokenizerMapper.class
